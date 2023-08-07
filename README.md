@@ -1,4 +1,4 @@
-# county-library-system
+# County library system
 
 This a CLI based Library Management System.
 
